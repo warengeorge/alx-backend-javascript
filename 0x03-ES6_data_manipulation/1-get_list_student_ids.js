@@ -5,7 +5,6 @@
  *   firstName: String,
  *   location: String,
  * }[]} students - The list of students.
- * @author Johnkennedy Ogu <https://github.com/mathjken>
  * @returns
  */
 export default function getListStudentIds(students) {
